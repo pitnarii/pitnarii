@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pitnarii
 - 👀 I’m interested in ...game development
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...python3
 
 
 <!---
