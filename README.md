@@ -1,6 +1,6 @@
 ### Hi there It's Pitnaree👋
 
-- 🔭 I’m currently working on ...implement feature for mercari app(only for Hackathon)
+- 🔭 I’m currently working on ...making my own portfolio website
 - 🌱 I’m currently learning ...Java, React, Python 3
 - 📫 How to reach me: ...[LinkedIn @Pitnaree](https://www.linkedin.com/in/pitnaree-krachangwong-547a12185/)
 - 😄 Pronouns: ...She/Her
