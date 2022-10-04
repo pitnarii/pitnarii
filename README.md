@@ -6,5 +6,7 @@
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I played the Sims4 more than 1,000 hours.
 
-![](https://komarev.com/ghpvc/?username=pitnarii)
+![](https://komarev.com/ghpvc/?username=pitnarii&style=plastic)
+
+
 [![Pitnaree's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitnarii&show_icons=true&theme=gruvbox)](https://github.com/pitnarii/github-readme-stats)
