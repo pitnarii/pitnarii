@@ -1,7 +1,7 @@
 ### Hi there It's Pitnaree👋
 
 - 🔭 I’m currently working on ...smart contract dissertation project
-- 🌱 I’m currently learning ...Java, React, Python 3, Node.js, Solidity, Next.js
+- 🌱 I’m currently learning ...solidity
 - 📫 How to reach me: ...[LinkedIn @Pitnaree](https://www.linkedin.com/in/pitnaree-krachangwong-547a12185/)
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I played the Sims4 more than 1,000 hours.
