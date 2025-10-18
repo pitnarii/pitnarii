@@ -1,6 +1,6 @@
 ### Hi there It's Pitnaree👋
 
-- 🔭 I’m currently working on ...SQL and Python
+- 🔭 I’m currently working on ...
 - 📫 How to reach me: ...[LinkedIn @Pitnaree](https://www.linkedin.com/in/pitnaree-krachangwong-547a12185/)
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I played the Sims4 more than 1,000 hours.
