@@ -8,5 +8,3 @@
 ![](https://komarev.com/ghpvc/?username=pitnarii&style=plastic)
 
 
-![Pitnarii's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitnarii&theme=radical&show_icons=true)]
-<!-- (https://github.com/pitnarii/github-readme-stats)  -->
