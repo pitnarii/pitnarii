@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I played the Sims4 more than 1,000 hours.
+- ⚡ Fun fact: ...5ft but train BJJ sometimes 🥋.
 
 ![](https://komarev.com/ghpvc/?username=pitnarii&style=plastic)
 
