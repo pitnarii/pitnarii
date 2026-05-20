@@ -1,6 +1,6 @@
 ### Hi there It's Pitnaree👋
 
-- 🔭 I’m currently working on ...working on portfolios
+- 🔭 I’m currently working on ...portfolios
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...5ft but train BJJ sometimes 🥋.
 
