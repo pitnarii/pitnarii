@@ -1,7 +1,6 @@
 ### Hi there It's Pitnaree👋
 
-- 🔭 I’m currently working on ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on ...working on portfolios
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...5ft but train BJJ sometimes 🥋.
 
