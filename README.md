@@ -6,4 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=pitnarii&style=plastic)
 
+![](https://github-visitor-counter-tau.vercel.app/api?username=pitnarii&displayMode=topCountries&theme=github_dark&visitortype=percentage)
+
 
