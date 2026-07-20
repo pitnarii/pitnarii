@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...portfolios
 - 😄 Pronouns: ...She/Her
-- ⚡ my interest ...I train BJJ🥋and Muaythai sometimes as my hobbies.
+- ⚡ my interest ...I train BJJ🥋and Muay Thai sometimes as my hobbies.
 
 ![](https://komarev.com/ghpvc/?username=pitnarii&style=plastic)
 
