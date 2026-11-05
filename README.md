@@ -8,4 +8,8 @@
 
 ![](https://github-visitor-counter-tau.vercel.app/api?username=pitnarii&displayMode=topCountries&theme=github_dark&visitortype=percentage)
 
+### Deployed projects
+- 🐶 [visit pet-sitter site](https://pet-sitter-app-client-khaki.vercel.app/)
+- 🛠️ [visit home-service site](https://home-service-app-client.vercel.app/)
+  
 
